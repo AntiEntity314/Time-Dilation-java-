@@ -1,4 +1,4 @@
-# Time Dilation Calculator
+# Time Dilation Calculator using Java
 
 A simple Java console application that calculates time dilation effects based on Einstein's theory of relativity.
 
